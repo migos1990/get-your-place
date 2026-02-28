@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "myCart": "MON PANIER",
+    "cartEmpty": "Le panier est vide",
+    "reservationFee": "Frais de réservation",
+    "completeIn": "Complète ton inscription dans les",
+    "minutes": "minutes",
+    "viewCart": "Voir mon panier"
+  },
+  "footer": {
+    "about": "À propos",
+    "whyUs": "Pourquoi nous?",
+    "owners": "Propriétaires",
+    "blog": "Blog",
+    "needHelp": "Besoin d'aide?",
+    "faq": "Vos questions nos réponses",
+    "contactUs": "Nous contacter",
+    "findUs": "Retrouve nous sur Facebook",
+    "language": "Langue"
+  },
+  "cookie": {
+    "title": "Préférences de cookies et confidentialité",
+    "description": "Nous utilisons des cookies pour améliorer votre expérience. En acceptant, vous acceptez notre utilisation des cookies.",
+    "reject": "Refuser",
+    "accept": "Accepter"
+  },
+  "home": {
+    "heroTitle": "Ta colocation t'attend",
+    "heroSubtitle": "Choisis ta chambre meublée à Montréal, on s'occupe du reste.",
+    "cta": "Démarrer ma recherche",
+    "featuresTitle": "Pourquoi nous choisir?",
+    "allInclusive": "Tout inclus",
+    "allInclusiveDesc": "Un service tout-inclus — chauffage, eau, électricité, wifi, mobilier et parfois service de ménage.",
+    "smartAccess": "Accès intelligent",
+    "smartAccessDesc": "Technologique et pratique, ton code te permet d'entrer dans ton appartement.",
+    "flexibleLease": "Bail flexible",
+    "flexibleLeaseDesc": "Bail de 2 à 12 mois, selon la chambre choisie.",
+    "noHassle": "Sans tracas",
+    "noHassleDesc": "Pas de temps et d'argent perdus à ton arrivée à chercher un appartement.",
+    "howItWorks": "Comment ça marche?",
+    "step1Title": "Choisis ta chambre",
+    "step1Desc": "Parcours nos appartements et trouve la chambre qui te convient.",
+    "step2Title": "Réserve en ligne",
+    "step2Desc": "Réserve ta chambre en quelques minutes. Le contrat est signé avant ton arrivée.",
+    "step3Title": "Emménage",
+    "step3Desc": "Ton code te permet d'entrer dans ton appartement. Tout est prêt pour toi."
+  },
+  "browse": {
+    "cities": "Villes",
+    "chooseUniversity": "Choisis ton université ou la raison de ta présence dans la ville",
+    "rooms": "Chambres",
+    "reservationsStarted": "Réservations commencées",
+    "apartments": "appartements",
+    "searchByName": "Chercher par nom d'appartement",
+    "leaseDuration": "Durée du bail?",
+    "roommates": "Colocataires?",
+    "universityDistance": "Distance de l'université?",
+    "priceRange": "Fourchette de prix",
+    "allUniversities": "Toutes les universités",
+    "mapView": "Carte",
+    "listView": "Liste",
+    "noResults": "Aucun appartement trouvé correspondant à vos filtres."
+  },
+  "apartment": {
+    "neighborhood": "Quartier",
+    "transitTime": "en transport de",
+    "bedrooms": "Chambres",
+    "area": "Superficie",
+    "bathrooms": "Salle de bain",
+    "unlimitedInternet": "Internet illimité",
+    "askQuestion": "Poser une question sur cet appartement",
+    "virtualTour": "Visite Virtuelle 3D 😎",
+    "theApartment": "L'appartement",
+    "availableRooms": "Chambres disponibles",
+    "addToCart": "Ajouter au panier",
+    "perMonth": "/mois",
+    "availableFrom": "Disponible à partir du",
+    "virtualTourSoon": "Bientôt disponible",
+    "virtualTourSoonDesc": "La visite virtuelle 3D de cet appartement sera bientôt disponible!"
+  },
+  "cart": {
+    "title": "Mon panier",
+    "empty": "Le panier est vide",
+    "reservationFee": "Frais de réservation",
+    "remove": "Retirer",
+    "subtotal": "Sous total",
+    "processingFee": "Frais de traitement (5%)",
+    "total": "Total",
+    "checkout": "Passer à la caisse"
+  },
+  "checkout": {
+    "acceptanceLetter": "Ta lettre d'acceptation de ton école est requise pour finaliser la réservation. Tu pourras la téléverser à l'étape suivante.",
+    "furnitureOption": "Je veux que ma chambre soit meublée",
+    "free": "Gratuit",
+    "depositRequired": "Dépôt requis",
+    "yes": "Oui",
+    "no": "Non",
+    "subtotal": "Sous total",
+    "processingFee": "Frais de traitement (5%)",
+    "total": "Total",
+    "depositNote": "Un dépôt pour le mobilier sera requis. Il sera retourné à la fin de ton bail si le mobilier est en bon état.",
+    "nextStep": "Étape suivante"
+  },
+  "whyUs": {
+    "title": "Ta chambre pour tes études à l'étranger",
+    "subtitle": "Tout ce dont tu as besoin pour te sentir chez toi",
+    "international": "Communauté internationale",
+    "internationalDesc": "Les colocations sont mixtes avec des étudiants du monde entier, parfait pour se faire de nouveaux amis et améliorer les langues étrangères.",
+    "smooth": "Arrivée en douceur",
+    "smoothDesc": "Signe le contrat en ligne, utilise ta serrure sans clé et paie ton loyer en ligne. Tout est fait pour que ton arrivée soit la plus facile possible.",
+    "allInclusive": "Tout inclus",
+    "allInclusiveDesc": "Chauffage, eau, électricité, wifi, mobilier et parfois service de ménage. Tu n'as à te soucier de rien.",
+    "ideal": "Emplacement idéal",
+    "idealDesc": "Nos appartements sont proches des universités ou dans des quartiers branchés. Tu seras toujours proche de ce qui compte."
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Tu trouveras toutes les réponses que tu cherches. Sinon, n'hésite pas à nous contacter!",
+    "contactUs": "Nous contacter"
+  },
+  "owner": {
+    "title": "Louez votre place facilement",
+    "subtitle": "On s'occupe de vos locations pour les années à venir",
+    "benefit1": "Aucun retard ou impayé",
+    "benefit1Desc": "Nous garantissons le paiement de votre loyer à temps, chaque mois.",
+    "benefit2": "Ménage professionnel",
+    "benefit2Desc": "Une équipe professionnelle nettoie l'appartement toutes les deux semaines.",
+    "benefit3": "Locataires fiables",
+    "benefit3Desc": "Nos locataires sont des étudiants ou de jeunes professionnels, âgés de 18 à 27 ans.",
+    "cta": "Devenir partenaire"
+  },
+  "team": {
+    "title": "L'équipe",
+    "subtitle": "Rencontre les personnes derrière GetYourPlace"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "subtitle": "Une question? Nous serions ravis de vous entendre.",
+    "name": "Nom",
+    "email": "Courriel",
+    "message": "Message",
+    "send": "Envoyer le message",
+    "success": "Votre message a été envoyé avec succès!",
+    "address": "2070 rue Clark, Suite 500, Montréal, QC H2X 2R7"
+  },
+  "auth": {
+    "signIn": "Se connecter",
+    "email": "Courriel",
+    "password": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "signInButton": "Se connecter",
+    "resetPassword": "Réinitialiser le mot de passe",
+    "resetPasswordDesc": "Entre ton courriel et nous t'enverrons un lien pour réinitialiser ton mot de passe.",
+    "sendResetLink": "Envoyer le lien",
+    "resetSuccess": "Si un compte avec ce courriel existe, tu recevras un lien de réinitialisation."
+  },
+  "cities": {
+    "title": "Nos villes",
+    "subtitle": "Trouve des appartements meublés tout-inclus à louer"
+  }
+}

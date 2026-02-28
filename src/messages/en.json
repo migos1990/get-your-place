@@ -1,0 +1,161 @@
+{
+  "nav": {
+    "myCart": "MY CART",
+    "cartEmpty": "The cart is empty",
+    "reservationFee": "Reservation fee",
+    "completeIn": "Complete your registration within",
+    "minutes": "minutes",
+    "viewCart": "View my cart"
+  },
+  "footer": {
+    "about": "About",
+    "whyUs": "Why us?",
+    "owners": "Owners",
+    "blog": "Blog",
+    "needHelp": "Need help?",
+    "faq": "Your questions, our answers",
+    "contactUs": "Contact us",
+    "findUs": "Find us on Facebook",
+    "language": "Language"
+  },
+  "cookie": {
+    "title": "Cookie and privacy preferences",
+    "description": "We use cookies to improve your experience. By accepting, you agree to our use of cookies.",
+    "reject": "Reject",
+    "accept": "Accept"
+  },
+  "home": {
+    "heroTitle": "Your shared flat is waiting",
+    "heroSubtitle": "Choose your furnished room in Montreal, we take care of the rest.",
+    "cta": "Start my search",
+    "featuresTitle": "Why choose us?",
+    "allInclusive": "All-inclusive",
+    "allInclusiveDesc": "An all-inclusive service — heating, water, electricity, wifi, furniture and sometimes cleaning service.",
+    "smartAccess": "Smart access",
+    "smartAccessDesc": "Technological and practical, your code allows you to enter your apartment.",
+    "flexibleLease": "Flexible lease",
+    "flexibleLeaseDesc": "Lease from 2 to 12 months, depending on the selected room.",
+    "noHassle": "No hassle",
+    "noHassleDesc": "No time and money wasted at your arrival while looking for an apartment.",
+    "howItWorks": "How does it work?",
+    "step1Title": "Choose your room",
+    "step1Desc": "Browse our apartments and find the room that suits you.",
+    "step2Title": "Book online",
+    "step2Desc": "Reserve your room in a few minutes. The contract is signed before your arrival.",
+    "step3Title": "Move in",
+    "step3Desc": "Your code allows you to enter your apartment. Everything is ready for you."
+  },
+  "browse": {
+    "cities": "Cities",
+    "chooseUniversity": "Choose your university or the reason for your presence in the city",
+    "rooms": "Rooms",
+    "reservationsStarted": "Reservations started",
+    "apartments": "apartments",
+    "searchByName": "Search by apartment name",
+    "leaseDuration": "Lease duration?",
+    "roommates": "Roommates?",
+    "universityDistance": "Distance from university?",
+    "priceRange": "Price range",
+    "allUniversities": "All universities",
+    "mapView": "Map",
+    "listView": "List",
+    "noResults": "No apartments found matching your filters."
+  },
+  "apartment": {
+    "neighborhood": "Neighborhood",
+    "transitTime": "by transit from",
+    "bedrooms": "Bedrooms",
+    "area": "Area",
+    "bathrooms": "Bathrooms",
+    "unlimitedInternet": "Unlimited internet",
+    "askQuestion": "Ask a question about this apartment",
+    "virtualTour": "3D Virtual Tour 😎",
+    "theApartment": "The apartment",
+    "availableRooms": "Available rooms",
+    "addToCart": "Add to cart",
+    "perMonth": "/month",
+    "availableFrom": "Available from",
+    "virtualTourSoon": "Coming soon",
+    "virtualTourSoonDesc": "The 3D virtual tour for this apartment will be available soon!"
+  },
+  "cart": {
+    "title": "My cart",
+    "empty": "The cart is empty",
+    "reservationFee": "Reservation fee",
+    "remove": "Remove",
+    "subtotal": "Subtotal",
+    "processingFee": "Processing fee (5%)",
+    "total": "Total",
+    "checkout": "Proceed to checkout"
+  },
+  "checkout": {
+    "acceptanceLetter": "Your school acceptance letter is required to finalize the booking. You will be able to upload it in the next step.",
+    "furnitureOption": "I want my room to be furnished",
+    "free": "Free",
+    "depositRequired": "Deposit required",
+    "yes": "Yes",
+    "no": "No",
+    "subtotal": "Subtotal",
+    "processingFee": "Processing fee (5%)",
+    "total": "Total",
+    "depositNote": "A deposit for furniture will be required. It will be returned at the end of your lease if the furniture is in good condition.",
+    "nextStep": "Next step"
+  },
+  "whyUs": {
+    "title": "Your room for your studies abroad",
+    "subtitle": "Everything you need to feel at home",
+    "international": "International community",
+    "internationalDesc": "Flatshares are mixed with students from all over the world, perfect for making new friends and improving foreign languages.",
+    "smooth": "Smooth arrival",
+    "smoothDesc": "Sign the contract online, use your keyless lock, and pay your rent online. Everything is done to make your arrival as easy as possible.",
+    "allInclusive": "All-inclusive",
+    "allInclusiveDesc": "Heating, water, electricity, wifi, furniture and sometimes cleaning service. You don't have to worry about anything.",
+    "ideal": "Ideal location",
+    "idealDesc": "Our apartments are close to universities or in trendy neighborhoods. You will always be close to what matters."
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "You will find all the answers you are looking for. If not, feel free to contact us!",
+    "contactUs": "Contact us"
+  },
+  "owner": {
+    "title": "Rent your place easily",
+    "subtitle": "We take care of your rentals for years to come",
+    "benefit1": "No delays or overdue payments",
+    "benefit1Desc": "We guarantee the payment of your rent on time, every month.",
+    "benefit2": "Professional cleaning",
+    "benefit2Desc": "A professional team cleans the apartment every two weeks.",
+    "benefit3": "Reliable tenants",
+    "benefit3Desc": "Our tenants are students or young professionals, aged 18 to 27.",
+    "cta": "Become a partner"
+  },
+  "team": {
+    "title": "The team",
+    "subtitle": "Meet the people behind GetYourPlace"
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Have a question? We'd love to hear from you.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "success": "Your message has been sent successfully!",
+    "address": "2070 rue Clark, Suite 500, Montreal, QC H2X 2R7"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "signInButton": "Sign in",
+    "resetPassword": "Reset password",
+    "resetPasswordDesc": "Enter your email and we will send you a link to reset your password.",
+    "sendResetLink": "Send reset link",
+    "resetSuccess": "If an account with this email exists, you will receive a reset link."
+  },
+  "cities": {
+    "title": "Our cities",
+    "subtitle": "Find fully furnished all-included apartments for rent"
+  }
+}
