@@ -24,9 +24,9 @@ export default function ApartmentInfo({ apartment, university }: ApartmentInfoPr
   ];
 
   return (
-    <div className="space-y-3">
+    <div className="divide-y divide-gray-200">
       {items.map((item, i) => (
-        <div key={i} className="flex items-center gap-3 text-sm text-gray-700">
+        <div key={i} className="flex items-center gap-3 py-3 text-sm text-gray-700">
           <item.icon className="h-5 w-5 text-primary shrink-0" />
           <span>{item.label}</span>
         </div>

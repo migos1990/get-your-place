@@ -40,7 +40,7 @@ interface AmenityListProps {
 
 export default function AmenityList({ amenities, locale }: AmenityListProps) {
   return (
-    <div className="flex flex-wrap gap-3">
+    <div className="divide-y divide-gray-200">
       {amenities.map((amenity) => {
         const Icon = amenityIcons[amenity] || Zap;
         const label =
@@ -48,9 +48,9 @@ export default function AmenityList({ amenities, locale }: AmenityListProps) {
         return (
           <div
             key={amenity}
-            className="flex items-center gap-2 rounded-full bg-blue-50 px-3 py-1.5 text-sm text-primary"
+            className="flex items-center gap-3 py-3 text-sm text-gray-700"
           >
-            <Icon className="h-4 w-4" />
+            <Icon className="h-5 w-5 text-primary shrink-0" />
             <span>{label}</span>
           </div>
         );

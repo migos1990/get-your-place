@@ -7,6 +7,10 @@ export interface Room {
   availableTo: string;
   images: string[];
   furnished: boolean;
+  bedType: string;
+  windows: number;
+  roomSize: number;
+  leaseDurations: string[];
 }
 
 export interface Apartment {
@@ -55,6 +59,7 @@ export interface CartItem {
   roomName: string;
   price: number;
   addedAt: number;
+  roomImage?: string;
 }
 
 export interface TeamMember {
