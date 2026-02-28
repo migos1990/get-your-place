@@ -46,6 +46,21 @@ npm run build
 npm start
 ```
 
+### GitHub Codespaces
+
+Try this project instantly in the browser with zero local setup:
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/migos1990/get-your-place?quickstart=1)
+
+When you click the badge:
+1. GitHub creates a cloud dev environment with Node 22 and all dependencies pre-installed
+2. The Next.js dev server starts automatically
+3. A browser tab opens with the running app
+
+> **Note:** The Mapbox map is optional. To enable it, add your token as a
+> [Codespaces secret](https://docs.github.com/en/codespaces/managing-your-codespaces/managing-secrets-for-your-codespaces)
+> named `NEXT_PUBLIC_MAPBOX_TOKEN`. The app works fully without it.
+
 ### Linting
 
 ```bash
